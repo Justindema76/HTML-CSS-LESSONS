@@ -1,0 +1,210 @@
+
+    .subscribe-button {
+        background-color: rgb(200, 0, 0);
+        color: white;
+        border: none;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+        border-radius: 2px;
+        cursor: pointer;
+        margin-right: 8px;
+        transition: opacity .7s;
+        vertical-align: top;
+    }
+  
+    .subscribe-button:hover {
+       opacity: .8;
+    }
+
+    .subscribe-button:active {
+        opacity: 0.5;
+    }
+
+    .join-button {
+        background-color: while;
+        border-color: rgb(6, 95, 212);
+        border-style: solid;
+        border-width: 1px;
+        color: rgb(6, 95, 212);
+        padding-top: 9px;
+        padding-bottom: 9px;
+        padding-left: 15px;
+        padding-right: 15px;
+        border-radius: 2px;
+        cursor: pointer; 
+        margin-right: 8px; 
+        transition: background-color 0.15s, color 0.15s;
+        vertical-align: top;
+        
+    }
+
+    .join-button:hover {
+        background-color: rgb(6, 95, 212);
+        color: white;
+    }
+    .join-button:active {
+        opacity: .7;
+    }
+
+    .tweet-button {
+        background-color:  rgb(29, 155, 240);;
+        border: none;
+        color: white;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 16px;
+        padding-right: 16px;
+        border-radius: 18px;
+        font-size: 15px;
+        font-weight: bold;
+        cursor: pointer;
+        transition: box-shadow 0.15s;
+        vertical-align: top;              
+    }
+   
+    .tweet-button:hover {
+        box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2); 
+    }
+    .uber-button {
+        background-color: black;
+        color: white;
+        border: none;
+        font-size: 16px;
+        font-weight: 500;
+        padding-top: 14px;
+        padding-bottom: 14px;
+        padding-left: 25px;
+        padding-right: 25px;
+        margin-left: 8px;
+        border-radius: 2px;
+        cursor: pointer;  
+        transition: opacity .7s;  
+        vertical-align: top;  
+    }
+.uber-button:hover {
+    opacity: 0.7;
+}
+
+.amazon-cart-button {
+    background-color: rgb(255, 216, 20);
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+    border: none;
+    border-radius: 18px;
+    font-size: 14px;
+    cursor: pointer;
+    margin-left: 8px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+    vertical-align: text-top;
+}
+.amazon-cart-button:hover {
+    background-color: rgb(245, 205, 3);
+    
+}
+.github-button {
+    background-color: rgb(46, 164, 42);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 12px;
+    cursor: pointer;
+    margin-left: 8px;
+    
+    transition: color .15s;
+    vertical-align: top;
+    transition: box-shadow .15s;
+    
+}
+.github-button:hover {
+    background-color: rgb(51, 196, 51);
+    box-shadow: 1px 1px 1px rgb(0, 0, 0.1);
+    color: black;
+}
+
+.bootstrap-button {
+    background-color: rgb(121, 82, 179);
+    color: white;
+    border: none;
+    border-radius: 2px;
+    font-size: 10px;
+    height: 27px;
+    width: 70px;
+    margin-left: 8px;
+    cursor: pointer;
+}
+
+.bootstrap-download-button {
+    background-color: rgb(255, 255, 255);
+    color: rgb(121, 82, 179);
+    border-color: rgb(121, 82, 179);
+    border-radius: 2px;
+    font-size: 10px;
+    height: 27px;
+    width: 70px;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    margin-left: 8px;
+
+}
+
+.linkedin-apply-button {
+    background-color: rgb(10, 102, 194);
+    color: white;
+    width: 150px;
+    height: 30px;
+    border: none;
+    border-radius: 18px;
+    font-size: 10px;
+    cursor: pointer;
+    margin-left: 8px;
+}
+
+.linkedin-save {
+    background-color: rgb(255, 255, 255);
+    color: rgb(10, 102, 194);
+    width: 71px;
+    height: 30px;
+    border-color: rgb(10, 102, 194);
+    border-radius: 18px;
+    border-style: solid;
+    border-width: 1px;
+    font-size: 10px;
+    cursor: pointer;
+    
+}
+
+.big-text {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.green-text {
+    color: rgb(0, 118, 0);
+    font-weight: bold;
+}
+
+.delivery-text {
+    font-size: 10px;
+}
+
+.buy-now-button {
+    background-color: rgb(255, 164, 35);
+    color: black;
+    width: 115px;
+    height: 30px;
+    border: none;
+    border-radius: 18px;
+    font-size: 10px;
+    cursor: pointer;
+    margin-left: 8px;
+}

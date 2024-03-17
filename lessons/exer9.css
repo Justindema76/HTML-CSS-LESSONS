@@ -1,0 +1,119 @@
+.redbox {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  border: none;
+  margin-bottom: 20px;
+}
+
+.greencircle {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  border: none;
+  margin-bottom: 20px;
+  border-radius: 50px;
+}
+
+.e9c {
+  font-weight: bold;
+  font-family: arial;
+  border-width: 1px;
+  width: 300px;
+  border-style: solid;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  margin-bottom: 20px;
+  padding-top: 20px;
+}
+.title{
+  margin-bottom: 10px;
+}
+button{
+  background-color: rgb(149, 147, 147);
+  border-width: 1px;
+  padding: 5px 10px 5px 10px;
+  border-radius: 4px
+  
+}
+
+.e9d {
+  background-color: rgb(33, 33, 33);
+  width: 360px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-family: arial;
+  color: white;
+  margin-bottom: 20px;
+
+}
+.e9c-title {
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  padding-left: 0px;
+}
+.e9d-stuff{
+  
+  color: grey;
+}
+p{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.e9e {
+  background-color: rgb(255, 255, 255);
+  width: 420px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-family: arial;
+  box-shadow: 0px 0px 7px; color: rgb(94, 93, 93);
+  border-width: 1px;
+  border-radius: 10px;
+  border-style: solid;
+  border: none;
+}
+
+.e9e-thumb {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  object-fit: cover;
+  object-position: center;
+  vertical-align: middle;
+}
+.heading {
+  vertical-align: middle;
+  border: none;
+  font-size: 18px;
+  font-family: arial;
+  padding-left: 20px;
+  width: 250px;}
+  
+  .tweet-button{
+    background-color: blue;
+    border: none;
+    padding: 10px 20px 10px 20px;
+    color: white;
+    font-weight: bold;
+    border-radius: 50px;
+  }
+.profile {
+  width: 200px;
+  box-shadow: 0px 0px 7px; color: rgb(94, 93, 93);
+}
+
+  .e9f-thumb {
+  width: 200px;
+  
+  
+  
+  object-fit: cover;
+  object-position: center;
+  vertical-align: middle;
+  }

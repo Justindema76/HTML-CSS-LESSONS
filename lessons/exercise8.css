@@ -1,0 +1,77 @@
+
+
+.name-bar , 
+.email-bar {
+display: block;
+margin-bottom: 5px;
+}
+
+.paragraph {
+  display: inline-block;
+  width: 200px;
+  vertical-align: middle;
+}
+
+.google {
+  display: block;
+  width: 200px;
+  margin-left: 150px;
+  margin-bottom: 10px;
+}
+
+.Search {
+  vertical-align: middle;
+  width: 500px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  border-radius: 50px;
+  border: none;
+  box-shadow: 0 1px 5px; color: rgb(0, 0, .1);
+  margin-bottom: 30px;
+}
+
+.first-name,
+.last-name {
+  padding-top: 12px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 5px;
+  border-width: 1px;
+  border-style: solid;
+  width: 148px;
+  font-size: 16px;
+  margin-bottom: 10px;
+  
+}
+.email {
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 16px;
+  width: 340px;
+  border-radius: 5px;
+  border-width: 1px;
+  border-style: solid;
+  font-size: 16px;
+ 
+}
+
+.sign-up-button {
+  background-color: rgb(15, 64, 197);
+  border: none;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 100px;
+  padding-right: 100px;
+  color: white;
+  font-size: 20px;
+  border-radius: 8px;
+  font-weight: bold;
+  width: 360px;
+  margin-top: 10px;
+}
